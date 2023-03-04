@@ -1,0 +1,18 @@
+.book
+{
+  background: url("https://img2.chinadaily.com.cn/images/201804/08/5ac9863fa3105cdce0a14f2d.jpeg") scroll center;
+  background-size: cover;
+  height: 100vh;
+}
+
+.books
+{
+  background-color: rgba(250, 6, 6, 0.2);
+  height: 100%;
+}
+.img
+{
+  background: url("https://i.guim.co.uk/img/media/bddbf0ae13e4b0e4dc91e4cf67224228fb06e7b5/0_38_4928_2957/master/4928.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=7e93597ec9e4483095bbbdcc202a2ef1") scroll center;
+  background-size: cover;
+
+}
